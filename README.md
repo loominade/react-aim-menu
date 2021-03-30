@@ -10,6 +10,8 @@ React implementation of Amazon's jQuery-menu-aim.
 
 ## Usage
 
+```jsx
+
     import React from 'react';
     import { MenuItem, Menu } from 'react-aim-menu';
 
@@ -36,6 +38,7 @@ React implementation of Amazon's jQuery-menu-aim.
             </Menu>
         );
     }
+```
 
 ## API
 
